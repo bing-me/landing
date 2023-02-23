@@ -1,0 +1,12 @@
+.btn-medium {
+  border: 1px solid #999999;
+  padding: 15px 25px;
+  border-radius: 50px;
+  font-weight: lighter;
+  color: lightgrey;
+  background-color: rgb(255, 109, 109);
+}
+.btn-medium:hover {
+  text-decoration: none;
+  background-color: rgb(255, 0, 0);
+}
